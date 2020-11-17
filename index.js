@@ -1,4 +1,4 @@
-let parametersBox = document.getElementById('parametersBox');
+let parametersBox = document.querySelector('#parametersBox');
 let requestJsonBox = document.getElementById('requestJsonBox');
 
 //Utility function
